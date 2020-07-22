@@ -16,12 +16,9 @@
 						<ul>
 							<?php
 					wp_nav_menu(array(
-					'theme_location' => 'footerMenu'
+					'theme_location' => 'headerMenu'
 					));
 					?>
-							<li class="m-item">Section 1</li>
-							<li class="m-item">Section 2</li>
-							<li class="m-item">Section 3</li>
 						</ul>
 					</nav>
 				</div>
@@ -40,12 +37,10 @@
 						<ul>
 					        <?php
 					wp_nav_menu(array(
-					'theme_location' => 'footerMenu'
+					'theme_location' => 'headerMenu'
 					));
 					?>
-							<li class="m-item-mobile">Sekcja 1</li>
-							<li class="m-item-mobile">Sekcja 2</li>
-							<li class="m-item-mobile">Sekcja 3</li>
+							
 						</ul>
 					</nav>
 				</div>

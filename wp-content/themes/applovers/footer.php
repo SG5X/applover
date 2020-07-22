@@ -21,13 +21,6 @@
 					'theme_location' => 'footerMenu'
 					));
 					?>
-					
-					<li>Section 1</li>
-					<li>Section 2</li>
-					<li>Section 3</li>
-					<li>Section 4</li>
-					<li>Section 5</li>
-					<li>Section 6</li>
 				</ul>
 			</nav>
 		</div>
